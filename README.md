@@ -167,8 +167,8 @@ For detailed instructions, refer to Google's documentation on [OAuth 2.0](https:
 
 <h2>Author</h2>
 <blockquote>
-  Mahmudul alam<br>
-  Email: expelmahmud@gmail.com
+  Mandeep Shishodia<br>
+  Email: mandeepsingh245301@gmail.com
 </blockquote>
 
 <div align="center">
